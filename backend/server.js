@@ -8,7 +8,7 @@ const cors = require("cors");
 const app = express();
 
 const allowedOrigins = [
-  // 'https://xml-data-extraction-frontend.onrender.com',
+  'https://xml2bc-dev-uat-frontend.onrender.com',
   'http://localhost:5173'
 ];
 
